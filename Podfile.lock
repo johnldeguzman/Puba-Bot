@@ -1,0 +1,58 @@
+PODS:
+  - Alamofire (4.3.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - ApiAI (0.7.0):
+    - ApiAI/AudioFileConverter (= 0.7.0)
+    - ApiAI/Core (= 0.7.0)
+    - ApiAI/Events (= 0.7.0)
+    - ApiAI/ResponseMapping (= 0.7.0)
+    - ApiAI/UIKit (= 0.7.0)
+    - ApiAI/UserEntities (= 0.7.0)
+    - ApiAI/VoiceFileRequest (= 0.7.0)
+    - ApiAI/VoiceRequest (= 0.7.0)
+  - ApiAI/AudioFileConverter (0.7.0):
+    - ApiAI/Core
+  - ApiAI/Core (0.7.0)
+  - ApiAI/Events (0.7.0):
+    - ApiAI/Core
+  - ApiAI/ResponseMapping (0.7.0):
+    - ApiAI/Core
+  - ApiAI/UIKit (0.7.0):
+    - ApiAI/Core
+    - ApiAI/VoiceRequest
+  - ApiAI/UserEntities (0.7.0):
+    - ApiAI/Core
+  - ApiAI/VoiceFileRequest (0.7.0):
+    - ApiAI/Core
+  - ApiAI/VoiceRequest (0.7.0):
+    - ApiAI/Core
+  - PullToDismiss (1.1)
+  - PulsingHalo (0.2.5)
+  - SwiftyGif (3.0.0)
+  - SwiftyJSON (3.1.4)
+  - TNInfoBubble (1.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - ApiAI
+  - PullToDismiss
+  - PulsingHalo
+  - SwiftyGif
+  - SwiftyJSON
+  - TNInfoBubble
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  ApiAI: 25f763ddd88139dc5fe6794a905300244190d168
+  PullToDismiss: c945663441118891057e7b13aca0658b45d0c586
+  PulsingHalo: cddcc388293326ccc6cfc9af1abff27434035bb5
+  SwiftyGif: d6b4d63de2a2a5134d8b54ba5719837319d77ef0
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  TNInfoBubble: af1a6ddb71432a54091c257093c0f073ce2b92e3
+
+PODFILE CHECKSUM: 36a210e46f259d1cd54488023f76acbdc0638fd2
+
+COCOAPODS: 1.1.1
